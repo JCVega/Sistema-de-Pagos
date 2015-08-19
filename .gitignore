@@ -7,3 +7,8 @@ platforms/firefoxos/www/img/recommend.png
 platforms/firefoxos/www/js/index.js
 platforms/firefoxos/www/plugins/org.apache.cordova.dialogs/src/firefoxos/notification.js
 platforms/firefoxos/www/plugins/org.apache.cordova.dialogs/www/notification.js
+platforms/firefoxos/www/css/index.css
+platforms/firefoxos/www/css/notification.css
+platforms/firefoxos/www/icon/icon-128.png
+platforms/firefoxos/www/icon/icon-60.png
+platforms/firefoxos/www/img/danger.png
